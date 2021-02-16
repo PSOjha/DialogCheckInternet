@@ -10,4 +10,4 @@ If you do a lot of Internet Request in your Android application, and you need ch
 
  Without Net Connectivity                             | With Net Connectivity                                     |
 :------------------------------------------:|:-------------------------------------------:
-<img src="screenshot/Screenshot dialog.jpg" width="200">|<img src="screenshot/Screenshot with nwtwork.jpg" width="200">|
+<img src="Screenshot/Screenshot dialog.jpg" width="200">|<img src="Screenshot/Screenshot with nwtwork.jpg" width="200">|
